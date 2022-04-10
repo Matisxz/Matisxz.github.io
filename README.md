@@ -1,2 +1,2 @@
 # Matisxz.github.io
-esto es un test de la funcion pages de github
+Esto es un test de la funcion "pages" de GitHub.
